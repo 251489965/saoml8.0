@@ -4,6 +4,6 @@
 ```
 wget -O saoml8.0 https://raw.githubusercontent.com/251489965/saoml8.0/main/saoml8.0;chmod +x saoml8.0;./saoml8.0
 ```
-获取授权:3269589.xyz
+# 获取授权:3269589.xyz
 
 # 用户须于下载本程序后24小时内删除，不得使用其中的文字、数据、图片或版权作品；任何使用行为均需自行承担法律责任并遵守所在国家的法律法规，作者不承担任何程序相关责任。
